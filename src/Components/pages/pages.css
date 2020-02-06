@@ -1,0 +1,14 @@
+/* about page styles */
+.about {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.about h2 {
+    margin: .5rem;
+}
